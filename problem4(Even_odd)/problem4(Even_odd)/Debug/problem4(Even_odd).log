@@ -1,0 +1,3 @@
+﻿  problem4(Even_odd).cpp
+d:\codeforces problems\problem4(even_odd)\problem4(even_odd)\problem4(even_odd).cpp(22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  problem4(Even_odd).vcxproj -> D:\CodeForces Problems\problem4(Even_odd)\Debug\problem4(Even_odd).exe

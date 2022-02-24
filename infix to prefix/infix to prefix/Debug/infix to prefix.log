@@ -1,0 +1,4 @@
+﻿  infix to prefix.cpp
+c:\users\dell\source\repos\infix to prefix\infix to prefix\infix to prefix.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\infix to prefix\infix to prefix\infix to prefix.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  infix to prefix.vcxproj -> C:\Users\dell\source\repos\infix to prefix\Debug\infix to prefix.exe

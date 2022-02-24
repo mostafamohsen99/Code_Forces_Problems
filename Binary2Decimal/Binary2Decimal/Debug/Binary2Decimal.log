@@ -1,0 +1,3 @@
+﻿  Binary2Decimal.cpp
+d:\codeforces problems\data structure codes\binary2decimal\binary2decimal\binary2decimal.cpp(25): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Binary2Decimal.vcxproj -> D:\CodeForces Problems\Data Structure codes\Binary2Decimal\Debug\Binary2Decimal.exe

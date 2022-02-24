@@ -1,0 +1,3 @@
+﻿  selection sort.cpp
+c:\users\dell\source\repos\selection sort\selection sort\selection sort.cpp(11): warning C4101: 'min': unreferenced local variable
+  selection sort.vcxproj -> C:\Users\dell\source\repos\selection sort\Debug\selection sort.exe

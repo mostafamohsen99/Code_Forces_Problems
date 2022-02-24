@@ -1,0 +1,4 @@
+﻿  sum k.cpp
+d:\codeforces problems\data structure codes\sum k\sum k\sum k.cpp(9): warning C4101: 'num1': unreferenced local variable
+d:\codeforces problems\data structure codes\sum k\sum k\sum k.cpp(9): warning C4101: 'num2': unreferenced local variable
+  sum k.vcxproj -> D:\CodeForces Problems\Data Structure codes\sum k\Debug\sum k.exe

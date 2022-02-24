@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  double linked list.cpp
+c:\users\dell\source\repos\double linked list\double linked list\double linked list.cpp(31): warning C4553: '==': result of expression not used; did you intend '='?
+  double linked list.vcxproj -> C:\Users\dell\source\repos\double linked list\Debug\double linked list.exe

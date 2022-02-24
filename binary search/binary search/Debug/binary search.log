@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  binary search.cpp
+c:\users\dell\source\repos\binary search\binary search\binary search.cpp(34): warning C4101: 'left': unreferenced local variable
+c:\users\dell\source\repos\binary search\binary search\binary search.cpp(34): warning C4101: 'right': unreferenced local variable
+  binary search.vcxproj -> C:\Users\dell\source\repos\binary search\Debug\binary search.exe
